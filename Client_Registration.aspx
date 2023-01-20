@@ -22,11 +22,11 @@
 
 
 
-    <%--<script type="text/javascript">
+    <script type="text/javascript">
         $(document).ready(function () {
-            $(<%=listddl_warehouse.ClientID%>).SumoSelect({ selectAll: true, okCancelInMulti: true });
+            $(<%=listbox_comm_dealt.ClientID%>).SumoSelect({ selectAll: true, okCancelInMulti: true });
         });
-    </script>--%>
+    </script>
 </asp:Content>
 
 <asp:Content ID="contChild_ExHeader" ContentPlaceHolderID="CntAdminEx_Header" runat="server">
