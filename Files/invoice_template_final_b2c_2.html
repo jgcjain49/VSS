@@ -1,0 +1,249 @@
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <style>
+        table {
+            /*width: 100%;
+            max-width: 535px;
+            table-layout: fixed;
+            word-wrap: break-word;*/
+        }
+
+        td {
+            font-size: 11px;
+            padding: 3px 5px;
+            page-break-inside: avoid;
+        }
+
+        .left-border {
+            border-left: 1px solid #000000;
+        }
+
+        .right-border {
+            border-right: 1px solid #000000;
+        }
+
+        .bottom-border {
+            border-bottom: 1px solid #000000;
+        }
+
+        .top-border {
+            border-top: 1px solid #000000;
+        }
+
+        .under-line {
+            text-decoration: underline;
+        }
+
+        .bold-text {
+            font-weight: bold;
+        }
+
+        .italic-text {
+            font-style: italic;
+        }
+
+        .p-top {
+            padding: 0px 0px 10px 0px;
+        }
+
+        .p-bottom {
+            padding: 10px 0px 0px 0px;
+        }
+
+        .addressStyle {
+            /*white-space: normal;
+            text-transform: uppercase;*/
+            white-space: pre-wrap;
+            text-transform: uppercase;
+            max-width: 100px !important;
+            width: 100px !important;
+        }
+    </style>
+</head>
+
+<body>
+    <table cellspacing="0" border="0">
+        <colgroup>
+			<col span="1" width="29.75px"></col>
+            <col span="1" width="29.75px"></col>
+			<col span="1" width="10px"></col>
+			<col span="1" width="15.75px"></col>
+            <col span="1" width="15.75px"></col>
+			<col span="1" width="10px"></col>
+            <!-- start of 2nd half, 7th col -->
+			<col span="1" width="40.75px"></col>
+			<col span="1" width="22.75px"></col>
+			<col span="1" width="22.75px"></col>
+			<col span="1" width="27.75px"></col>
+			<col span="1" width="29.75px"></col>
+			<col span="1" width="31.25px"></col>
+            <!--<col width="15.25px"></col>-->
+        </colgroup>
+        <tr>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="1" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="bold-text under-line" colspan="12" align="center" valign="middle" style="font-size: 15px">Tax Invoice</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="top-border left-border" colspan="2" align="left" valign="middle">Invoice No. :</td>
+            <td class="bold-text top-border" colspan="4" align="right" valign="middle">{invoiceNo}</td>
+            <td class="top-border left-border" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border" align="center" valign="middle">&nbsp;</td>
+            <td class="top-border" align="right" valign="middle">Dated :</td>
+            <td class="bold-text top-border right-border" colspan="2" align="right" valign="middle">{invoiceDt}</td>
+        </tr>
+        <tr>
+            <td class="bold-text top-border left-border" colspan="6" align="left" valign="middle">GOLDIFY LLP
+			</td>
+            <td class="bold-text top-border left-border right-border" colspan="6" align="left" valign="middle">Buyer (Bill to) : {userName}
+			</td>
+        </tr>
+        <tr>
+            <td class="addressStyle left-border" colspan="6" rowspan="3" height="60" align="left" valign="top">SHIVAJI NAGAR, ROOM NO.T-8, UNIT NO.7, AAREY MILK COLONY, GOREGAON (EAST), MUMBAI - 400065 STATE : MAHARASHTRA</td>
+            <td class="addressStyle left-border right-border" colspan="6" rowspan="3" height="60" align="left" valign="top">{userAddress}</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td class="top-border left-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border" align="left" valign="middle">&nbsp;</td>
+            <td class="top-border left-border" colspan="3" align="left" valign="middle">Mobile No. :</td>
+            <td class="top-border right-border" colspan="3" align="left" valign="middle">{userMobile}</td>
+        </tr>
+        <tr>
+            <td class="left-border" colspan="2" align="left" valign="middle">E-Mail :</td>
+            <td class="" colspan="4" align="left" valign="middle">ecommerce@goldifyapp.com</td>
+            <td class="left-border" colspan="3" align="left" valign="middle">E-Mail :</td>
+            <td class="right-border" colspan="3" align="left" valign="middle">{userEmail}</td>
+        </tr>
+        <tr>
+            <td class="left-border" colspan="2" align="left" valign="middle">GSTIN/UIN :</td>
+            <td class="" colspan="4" align="left" valign="middle">27AAVFG4973B1Z1</td>
+            <td class="left-border" colspan="3" align="left" valign="middle">GSTIN/UIN :</td>
+            <td class="right-border" colspan="3" align="left" valign="middle">{userGSTNo}</td>
+        </tr>
+        <tr>
+            <td class="left-border" colspan="6" align="left" valign="middle">&nbsp;</td>
+            <td class="left-border" colspan="3" align="left" valign="middle">Customer's PAN :</td>
+            <td class="right-border" colspan="3" align="left" valign="middle">{userPAN}</td>
+        </tr>
+        <tr>
+            <td class="left-border" colspan="6" align="left" valign="middle">&nbsp;</td>
+            <td class="left-border" colspan="3" align="left" valign="middle">Customer's Aadhaar No. :</td>
+            <td class="right-border" colspan="3" align="left" valign="middle">{userAadhaar}</td>
+        </tr>
+        <tr>
+            <td class="bold-text top-border left-border" colspan="6" align="center" valign="middle">Description of Goods</td>
+            <td class="bold-text top-border left-border" colspan="1" align="center" valign="middle">HSN/</td>
+            <td class="bold-text top-border left-border" align="center" valign="middle">GST</td>
+            <td class="bold-text top-border left-border" align="center" valign="middle">QTY</td>
+            <td class="bold-text top-border left-border" align="center" valign="middle">Weight</td>
+            <td class="bold-text top-border left-border" align="center" valign="middle">Rate</td>
+            <td class="bold-text top-border left-border right-border" align="center" valign="middle">Amount</td>
+        </tr>
+        <tr>
+            <td class="bottom-border left-border" colspan="6" align="center" valign="middle">&nbsp;</td>
+            <td class="bottom-border left-border" align="center" valign="middle">SAC</td>
+            <td class="bottom-border left-border" align="center" valign="middle">Rate</td>
+            <td class="bottom-border left-border" align="center" valign="middle">&nbsp;</td>
+            <td class="bottom-border left-border" align="center" valign="middle">&nbsp;</td>
+            <td class="bottom-border left-border" align="center" valign="middle">per gram</td>
+            <td class="bottom-border left-border right-border" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        {productRows}
+		{emptyRows}
+	
+        <tr>
+            <td class="italic-text left-border" colspan="6" align="right" valign="middle">IGST Output @ 3%</td>
+            <td class="left-border" align="left" valign="middle">&nbsp;</td>
+            <td class="left-border" align="right" valign="middle">3 %</td>
+            <td class="left-border" align="right" valign="middle">&nbsp;</td>
+            <td class="left-border" align="right" valign="middle">&nbsp;</td>
+            <td class="left-border" align="left" valign="middle">&nbsp;</td>
+            <td class="bold-text left-border right-border" align="right" valign="middle">{gstAmt}</td>
+        </tr>
+        <tr>
+            <td class="italic-text left-border" colspan="6" align="right" valign="middle">Discount</td>
+            <td class="left-border" align="left" valign="middle">&nbsp;</td>
+            <td class="left-border" align="right" valign="middle">&nbsp;</td>
+            <td class="left-border" align="right" valign="middle">&nbsp;</td>
+            <td class="left-border" align="right" valign="middle">&nbsp;</td>
+            <td class="left-border" align="left" valign="middle">&nbsp;</td>
+            <td class="bold-text left-border right-border" align="right" valign="middle">{discount}</td>
+        </tr>
+        <tr>
+            <td class="bold-text top-border bottom-border left-border" colspan="6" align="right" valign="middle">Total</td>
+            <td class="bold-text top-border bottom-border left-border right-border" colspan="6" align="right" valign="middle">&#8377; {totalAmt}</td>
+        </tr>
+        <tr>
+            <td class="left-border" colspan="6" align="left" valign="middle">Amount Chargeable (in words)</td>
+            <td class="italic-text right-border" colspan="6" align="right" valign="middle">E. &amp; O.E.</td>
+        </tr>
+        <tr>
+            <td class="bold-text left-border right-border" colspan="12" align="left" valign="middle">INR {totalAmtInWords}</td>
+        </tr>
+        <tr>
+            <td class="top-border left-border" colspan="3" align="left" valign="middle">Company's PAN :</td>
+            <td class="bold-text top-border" colspan="3" align="right" valign="middle">AAVFG4973B</td>
+            <td class="top-border right-border" colspan="6" align="left" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="top-border bottom-border left-border" colspan="6" align="justify" valign="top" style="font-size: 10px">
+                <p class="under-line">Declaration:</p>
+                We declare that this invoice shows the actual price of the goods described and that all the particulars are true and correct.
+				IN CASE OF RETURN &amp; EXCHANGE 1) In case of damage goods will be Repaired, not Exchange 2) Exchange at goods within
+				2 days.</td>
+            <td class="top-border bottom-border left-border right-border" colspan="6" align="center" valign="top">
+                <p class="p-top">for GOLDIFY LLP</p>
+                <p class="p-bottom">Authorised Signatory</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">SUBJECT TO MAHARASHTRA JURISDICTION</td>
+        </tr>
+        <tr>
+            <td colspan="12" align="center" valign="middle">This is a Computer Generated Invoice</td>
+        </tr>
+    </table>
+</body>
+
+</html>

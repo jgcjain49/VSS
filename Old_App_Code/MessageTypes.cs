@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+public class MessageTypes
+{
+    public const string TEXT_MSG = "PLAIN_TEXT_MESSAGE";
+    public const string ACK_MSG_READ = "VITCO_SPCL_MSG_READ_ACK_91114102_VITCO";
+    public const string ACK_MSG_RECIEVE = "VITCO_SPCL_MSG_RECIEVE_ACK_91114102_VITCO";
+    public const string ACK_MSG_CANCELED = "VITCO_SPCL_MSG_CANCEL_ACK_91114102_VITCO";
+    public const string TRACE_LOCATION = "VITCO_SPCL_MSG_SEND_UR_LOCATION_01214102_VITCO";
+    public const string FILE_ATTACHEMENT = "SPCL_VITCO_ATTACH_LINK";
+    public const string PRODUCT_NOTIFICATIONS = "NEW_PRODUCT_PUSH_INFO_NOTIFICATION";
+    public const string PRODUCT_OFFERS_NOTIFICATIONS = "PRODUCT_OFFERS_PUSH_INFO_NOTIFICATION";
+    public const string ORDER_STATUS_UPDATES = "ORDER_STATUS_UPDATE_PUSH_MSG_MIN";
+    public const string MSTORE_INFORMATIVE_OFFER = "NEW_MSTORE_INFORMATIVE_TEXT_NOTIFICATION";
+    public const string MSTORE_INFORMATIVE_QUERY = "NEW_MSTORE_INFORMATIVE_USER_APP_QUERY";
+}

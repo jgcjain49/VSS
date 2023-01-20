@@ -1,0 +1,10 @@
+15:20:01:201 OTP request sent:: http://mobicomm.dove-sms.com//submitsms.jsp?user=SHRDHA&key=01aba64655XX&mobile=+91&message=Your Goldify One Time Password is 82309&senderid=GOLDFY&accusage=1
+15:20:01:201 OTP response rcvd:: 
+fail,InvalidMobileNumber,0,0, 91 
+
+
+15:25:28:2528 OTP request sent:: http://mobicomm.dove-sms.com//submitsms.jsp?user=SHRDHA&key=01aba64655XX&mobile=+919823547383&message=Your Goldify One Time Password is 31301&senderid=GOLDFY&accusage=1
+15:25:28:2528 OTP response rcvd:: 
+sent,success,499271403,539763810,+919823547383 
+
+

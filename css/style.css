@@ -1,0 +1,437 @@
+/*---
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+----*/
+/* reset */
+@font-face {
+    font-family: commtrex;
+    src: url(Montserrat.woff);
+}
+
+.field_icon {
+    position: absolute;
+    right: 42px;
+  margin-top: 6px;
+    color: #E0A349;
+    font-size: 20px !important;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, dl, dt, dd, ol, nav ul, nav li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+ol, ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after, q:before, q:after {
+        background: '';
+        background: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* start editing from here */
+a {
+    text-decoration: none;
+}
+
+.txt-rt {
+    text-align: right;
+}
+/* text align right */
+.txt-lt {
+    text-align: left;
+}
+/* text align left */
+.txt-center {
+    text-align: center;
+}
+/* text align center */
+.float-rt {
+    float: right;
+}
+/* float right */
+.float-lt {
+    float: left;
+}
+/* float left */
+.clear {
+    clear: both;
+}
+/* clear float */
+.pos-relative {
+    position: relative;
+}
+/* Position Relative */
+.pos-absolute {
+    position: absolute;
+}
+/* Position Absolute */
+.vertical-base {
+    vertical-align: baseline;
+}
+/* vertical align baseline */
+.vertical-top {
+    vertical-align: top;
+}
+/* vertical align top */
+nav.vertical ul li {
+    display: block;
+}
+/* vertical menu */
+nav.horizontal ul li {
+    display: inline-block;
+}
+/* horizontal menu */
+img {
+    max-width: 100%;
+}
+/*end reset*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'commtrex';
+    /*background: url(../images/bg.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;*/
+    background-color: #D7736E;
+    background: linear-gradient(80deg, #D7736E, #E0A349);
+    border-radius: 7px;
+    padding: 0px;
+}
+
+.nice-scroll-grid {
+    overflow-x: scroll;
+}
+
+.main {
+    margin: 5em auto 0;
+    width: 22%;
+}
+
+form {
+    /*background: #0A192A;*/
+    /*border: 1px solid #0A192A;*/
+    border-radius: 0.4em;
+    background: #fff;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 5px 10px 5px rgba(0,0,0,0.2);
+}
+
+    form:after {
+        content: "";
+        display: block;
+        position: absolute;
+        height: 1px;
+        width: 100px;
+        left: 20%;
+        top: 0;
+    }
+
+    form:before {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 8px;
+        height: 5px;
+        border-radius: 50%;
+        left: 34%;
+        top: -7px;
+        box-shadow: 0 0 6px 4px #fff;
+    }
+
+.inset {
+    padding: 20px;
+    border-top: 1px solid #E0A349;
+}
+
+form h1 {
+    text-align: center;
+    padding: 7px 0;
+    /*border-bottom: 1px solid #000;*/
+    position: relative;
+}
+
+    form h1:after {
+        content: "";
+        display: block;
+        width: 250px;
+        height: 100px;
+        position: absolute;
+        top: 0;
+        left: 50px;
+        pointer-events: none;
+        -webkit-transform: rotate(70deg);
+        background: linear-gradient(50deg, rgba(255,255,255,0.15), rgba(0,0,0,0));
+    }
+
+form h1 {
+    color: #E0A349;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+}
+
+    form h1 span {
+        padding: 5px;
+        font-size: 1.2rem;
+        /*background: #0184ff;*/
+    }
+
+label {
+    color: #E0A349;
+    display: block;
+    font-size: 13px;
+    padding-bottom: 3px;
+    font-weight: 700;
+}
+
+input[type=text],
+input[type=password] {
+    font-family: 'commtrex';
+    /*width:100%;*/
+    width: 98%;
+    padding: 6px 10px;
+    /*border: 1px solid #1b1717;*/
+    background: #fff;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 10%);
+    border-radius: 1.5rem;
+    margin-bottom: 11px;
+    color: #E0A349;
+    font-size: 14px;
+}
+
+label[for=remember] {
+    color: #E0A349;
+    display: inline-block;
+    font-size: 13px;
+}
+
+/*input[type=checkbox] {
+    display: inline-block;
+    vertical-align: middle;
+}*/
+
+input[type=checkbox] {
+    cursor: pointer;
+}
+
+    input[type=checkbox]:after {
+        content: " ";
+        background-color: #E0A349;
+        display: inline-block;
+        color: #fff;
+        padding: 0px 2px;
+    }
+
+    input[type=checkbox]:checked:after {
+        content: "\2714";
+    }
+
+.p-container {
+    padding: 0 20px 10px 20px;
+}
+
+    .p-container:after {
+        clear: both;
+        display: table;
+        content: "";
+    }
+
+    .p-container span a {
+        font-size: 12px;
+        display: block;
+        float: left;
+        color: #E0A349;
+        padding-top: 4px;
+    }
+
+        .p-container span a:hover {
+            text-decoration: underline;
+        }
+
+input[type=submit] {
+    padding: 5px 20px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #E0A349 !important;
+    font-size: 14px !important;
+    border-radius: 27px;
+    letter-spacing: 1px;
+    box-shadow: none;
+    border-width: 0px;
+}
+
+    input[type=submit]:hover {
+        color: #E0A349;
+        background-color: #fff !important;
+        border: 1px solid #E0A349;
+        font-weight: bold;
+        cursor: pointer;
+        font-size: 14px !important;
+        letter-spacing: 1px;
+        box-shadow: none;
+    }
+
+/**start-copy-right**/
+.copy-right {
+    text-align: center;
+}
+
+    .copy-right p {
+        color: #FFF;
+        font-size: 1em;
+        padding: 6em 0;
+    }
+
+        .copy-right p a {
+            font-size: 1em;
+            font-weight: 600;
+            color: #061A3D;
+            -webkit-transition: all 0.3s ease-out;
+            -moz-transition: all 0.3s ease-out;
+            -ms-transition: all 0.3s ease-out;
+            -o-transition: all 0.3s ease-out;
+            transition: all 0.3s ease-out;
+        }
+
+    .copy-right a:hover {
+        color: #fff;
+    }
+
+.modal-dialog-import {
+    position: relative;
+    padding: 43px;
+}
+
+/*----start-responsive design-----*/
+
+@media only screen and (max-width:1680px) {
+    .main {
+        margin: 5em auto 0;
+        width: 23%;
+    }
+
+    .copy-right p {
+        padding: 0em 0;
+    }
+}
+
+@media only screen and (max-width:1440px) {
+    .main {
+        margin: 5em auto 0;
+        width: 22%;
+    }
+
+    .copy-right p {
+        padding: 3em 0;
+    }
+}
+
+@media only screen and (max-width:1366px) {
+    .main {
+        margin: 5em auto 0;
+        width: 23%;
+    }
+
+    .copy-right p {
+        padding: 3.5em 0;
+    }
+}
+
+@media only screen and (max-width:1280px) {
+    .main {
+        margin: 5em auto 0;
+        width: 35%;
+    }
+
+    .copy-right p {
+        padding: 4.3em 0;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .main {
+        margin: 5em auto 0;
+        width: 45%;
+    }
+
+    .copy-right p {
+        padding: 6em 0;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .main {
+        margin: 5em auto 0;
+        width: 50%;
+    }
+
+    .copy-right p {
+        padding: 6em 0;
+    }
+}
+
+@media only screen and (max-width:640px) {
+    .main {
+        margin: 5em auto 0;
+        width: 65%;
+    }
+
+    .copy-right p {
+        padding: 6em 0;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .main {
+        margin: 5em auto 0;
+        width: 77%;
+    }
+
+    .copy-right p {
+        padding: 6em 0;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .main {
+        margin: 5em auto 0;
+        width: 85%;
+    }
+
+    .copy-right p {
+        padding: 1em 0;
+    }
+}
+
+/*----//end-responsive design-----*/

@@ -1,0 +1,22 @@
+﻿.dropdown.dropdown-scroll .dropdown-list{
+    max-height: 233px;
+    overflow-y: auto;
+    list-style-type: none;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.dropdown-list  li{
+    font-size: 14px;
+    height: 20px;
+}
+
+.dropdown-list  li > a{
+    color: black;
+}
+.dropdown-list a:hover{
+   color: black;
+}
+
+.dropdown-list li:hover{
+    background-color: lightgray;
+}

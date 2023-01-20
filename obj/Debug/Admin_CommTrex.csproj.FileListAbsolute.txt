@@ -1,0 +1,794 @@
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.dll.config
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\EPPlus.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.PdfSharp.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\Newtonsoft.Json.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\PdfSharp.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.PdfSharp.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\Newtonsoft.Json.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\PdfSharp.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\bin\de\PdfSharp.resources.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.pdb
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.dll.config
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\Admin_CommTrex.pdb
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\EPPlus.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.PdfSharp.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\Newtonsoft.Json.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\PdfSharp.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.pdb
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\HtmlRenderer.PdfSharp.pdb
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.pdb
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\LumenWorks.Framework.IO.xml
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\Newtonsoft.Json.xml
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\PdfSharp.xml
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\bin\de\PdfSharp.resources.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.dll
+F:\vitco_office\CommTrex\Anj_Admin_CommTrex_20220829\obj\Debug\Admin_CommTrex.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\Admin_CommTrex.dll.config
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\Admin_CommTrex.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\Admin_CommTrex.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\EPPlus.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\HtmlRenderer.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\HtmlRenderer.PdfSharp.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\LumenWorks.Framework.IO.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\Newtonsoft.Json.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\PdfSharp.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\HtmlRenderer.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\HtmlRenderer.PdfSharp.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\LumenWorks.Framework.IO.pdb
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\LumenWorks.Framework.IO.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\Newtonsoft.Json.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\PdfSharp.xml
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\bin\de\PdfSharp.resources.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\obj\Debug\Admin_CommTrex.dll
+E:\Anjali\CommTrex\Anj_Admin_CommTrex_20220930\obj\Debug\Admin_CommTrex.pdb
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\Admin_CommTrex.dll.config
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\Admin_CommTrex.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\Admin_CommTrex.pdb
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\EPPlus.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\HtmlRenderer.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\HtmlRenderer.PdfSharp.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\LumenWorks.Framework.IO.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\Newtonsoft.Json.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\PdfSharp.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\HtmlRenderer.pdb
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\HtmlRenderer.PdfSharp.pdb
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\LumenWorks.Framework.IO.pdb
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\LumenWorks.Framework.IO.xml
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\Newtonsoft.Json.xml
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\PdfSharp.xml
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\bin\de\PdfSharp.resources.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\obj\Debug\Admin_CommTrex.dll
+E:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\CommTrex Admin_2022_11_07\CommTrex Admin\Vibha_Admin_CommTrex_20221104\Vibha_Admin_CommTrex_20221104\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\Admin_CommTrex.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\EPPlus.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\HtmlRenderer.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\PdfSharp.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\HtmlRenderer.pdb
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\PdfSharp.xml
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Jeet_Admin_CommTrex_07112022\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_17\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_18\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_21\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_26\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_11_29\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-01\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-02\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-05\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-06\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-12\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-13\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-15\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022_12-17\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-19\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-19\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-22\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-26\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2022-12-27\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2022-12-28\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-03\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-04\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-05\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-06\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-07\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-09\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\obj\Debug\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-10\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\Admin_CommTrex.dll.config
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\Admin_CommTrex.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\EPPlus.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\HtmlRenderer.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\HtmlRenderer.PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\LumenWorks.Framework.IO.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\Newtonsoft.Json.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\PdfSharp.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\HtmlRenderer.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\HtmlRenderer.PdfSharp.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\LumenWorks.Framework.IO.pdb
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\LumenWorks.Framework.IO.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\Newtonsoft.Json.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\PdfSharp.xml
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\bin\de\PdfSharp.resources.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\obj\Debug\Admin_CommTrex.dll
+D:\DotNet Project\Hardy_Admin_CommTrex_2023-01-11\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Hardy_Admin_CommTrex_2023-01-13\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\Admin_CommTrex.dll.config
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\Admin_CommTrex.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\Admin_CommTrex.pdb
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\EPPlus.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\HtmlRenderer.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\LumenWorks.Framework.IO.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\Newtonsoft.Json.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\PdfSharp.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\HtmlRenderer.pdb
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\LumenWorks.Framework.IO.pdb
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\LumenWorks.Framework.IO.xml
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\Newtonsoft.Json.xml
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\PdfSharp.xml
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\bin\de\PdfSharp.resources.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\obj\Debug\Admin_CommTrex.dll
+C:\Users\Tushar\Downloads\Jitendra_Admin_CommTrex_2023-01-14\Jitendra_Admin_CommTrex_2023-01-14\obj\Debug\Admin_CommTrex.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\Admin_CommTrex.dll.config
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\Admin_CommTrex.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\Admin_CommTrex.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\EPPlus.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\HtmlRenderer.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\HtmlRenderer.PdfSharp.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\LumenWorks.Framework.IO.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\Newtonsoft.Json.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\PdfSharp.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\HtmlRenderer.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\HtmlRenderer.PdfSharp.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\LumenWorks.Framework.IO.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\LumenWorks.Framework.IO.xml
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\Newtonsoft.Json.xml
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\PdfSharp.xml
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\bin\de\PdfSharp.resources.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\obj\Debug\Admin_CommTrex.dll
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\obj\Debug\Admin_CommTrex.pdb
+D:\Downloads\Jitendra_Admin_CommTrex_2023-01-16\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-17\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-18\Jitendra_Admin_CommTrex_2023-01-17\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19-day\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.dll.config
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\EPPlus.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\Newtonsoft.Json.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\PdfSharp.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\HtmlRenderer.PdfSharp.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\LumenWorks.Framework.IO.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\Newtonsoft.Json.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\PdfSharp.xml
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\bin\de\PdfSharp.resources.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.dll
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.pdb
+D:\Jitendra_Dotnet\Jitendra_Dotnet\PROJECT\Jitendra_Admin_CommTrex_2023-01-19\Jitendra_Admin_CommTrex_2023-01-19\obj\Debug\Admin_CommTrex.csprojResolveAssemblyReference.cache
